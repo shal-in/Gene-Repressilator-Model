@@ -35,3 +35,8 @@ The project relies on the following Python libraries and modules:
 * NumPy
 * SciPy
 * Matplotlib
+
+You can install the necessary dependencies using `pip`:
+
+```bash
+pip install numpy scipy matplotlib
