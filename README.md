@@ -6,7 +6,7 @@ The project is organised as follows:
 1. **papers**/folder
    * This folder contains relevant literature for the project, providing relevant background information.
 
-2. **report**/folder
+2. **code**/folder
    * This folder contains the report produced as part of the project. It summarises the finding, methodology, and conclusions drawn from the simulations
 
 3. **report**/folder
