@@ -25,7 +25,7 @@ The notebook covers the following tasks related to simulating the Repressilator 
 ## Running the Notebook
 To reproduce the results and findings from the project, follow these steps:
 1. Install Python 3.10 and Jupyter Notebook on your machine if you havent already.
-2. Close or download the project repository
+2. Clone or download the project repository
 3. Navigate to the **code**/folder and open the Jupyter Notebook file named `Repressilator_Simulation.ipynb`
 4. Run the notebook by executing all the cells. Ensure that the required modules and variables are imported in the first cell of the notebook.
 5. The notebook contains code, explanations and visualisations to guide you through the simulation process and analysis. Each task is clearly labelled. Make sure to run each task in its entirety to obtain the complete results and repliate the report. You can modify the code or parameters to experiment with different scenarios and observe their effects.
