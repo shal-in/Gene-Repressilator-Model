@@ -6,10 +6,10 @@ The project is organised as follows:
 1. **papers**/folder
    * This folder contains relevant literature for the project, providing relevant background information.
 
-2. **code**/folder
+2. **report**/folder
    * This folder contains the report produced as part of the project. It summarises the finding, methodology, and conclusions drawn from the simulations
 
-3. **report**/folder
+3. **code**/folder
    * This folder contains the Jupyter Notebook file named `Repressilator_Simulation.ipynb`. It combines all six tasks into a single notebook for easier access and readability. Please be aware that some figures have been shown multiple times in the notebook, to produce a figure that is
 appropriate for the report.
 
